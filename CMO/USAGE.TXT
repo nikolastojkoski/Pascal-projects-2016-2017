@@ -1,0 +1,18 @@
+
+   * Navigating through the interface:
+
+     Left Arrow, Right Arrow
+     Up Arrow, Down Arrow
+
+   * Activate Item/Option * * * * * *
+
+     Enter Key
+
+   * Close/Exit Active Item * * * * *
+
+     ESC Key
+
+
+   *  Table Results  contain extra
+   *  information  ->  Right Arrow
+   *  to access Pogresnost Results

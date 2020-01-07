@@ -1,0 +1,9 @@
+
+
+  SMO - An application for modelling
+  a system for mass service.
+
+  Author: Stoykoski Nikola
+  Group: 13534/1
+
+  2017
